@@ -1,0 +1,17 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="24dp"
+    android:height="24dp"
+    android:viewportWidth="24"
+    android:viewportHeight="24">
+    <!-- Active filled Reels circle with cutout play triangle -->
+    <path
+        android:fillColor="#FF000000"
+        android:fillType="evenOdd"
+        android:pathData="M10,2.5 C14.1,2.5 17.5,5.9 17.5,10 C17.5,14.1 14.1,17.5 10,17.5 C5.9,17.5 2.5,14.1 2.5,10 C2.5,5.9 5.9,2.5 10,2.5 Z M8.5,7.7 C8.5,7.3 8.9,7 9.3,7.2 L13.3,9.5 C13.7,9.7 13.7,10.3 13.3,10.5 L9.3,12.8 C8.9,13 8.5,12.7 8.5,12.3 Z" />
+    <!-- Discovery search handle -->
+    <path
+        android:strokeColor="#FF000000"
+        android:strokeWidth="2.8"
+        android:strokeLineCap="round"
+        android:pathData="M14.6,14.6 L20.2,20.2" />
+</vector>

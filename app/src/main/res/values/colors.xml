@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hunar_orange">#FF7A1A</color>
+    <color name="hunar_orange_dark">#E05D00</color>
+    <color name="hunar_orange_light">#FFA35E</color>
+    <color name="hunar_black">#0D0D11</color>
+    <color name="hunar_dark_surface">#18181D</color>
+    <color name="hunar_dark_card">#202026</color>
+    <color name="hunar_white">#FFFFFF</color>
+    <color name="hunar_gray">#9E9EA7</color>
+</resources>

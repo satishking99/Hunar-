@@ -1,0 +1,14 @@
+.gradle/
+build/
+.build-outputs/
+app/build/
+.env
+local.properties
+*.keystore
+debug.keystore*
+backend/node_modules/
+backend/.env
+backend/.env.*
+backend/data/*.sqlite*
+backend/uploads/*
+!backend/uploads/.gitkeep

@@ -1,0 +1,15 @@
+node_modules/
+.env
+.env.local
+.env.production
+data/*.sqlite
+data/*.sqlite-journal
+data/*.sqlite-wal
+data/*.sqlite-shm
+uploads/*
+!uploads/.gitkeep
+logs/
+*.log
+npm-debug.log*
+.DS_Store
+coverage/

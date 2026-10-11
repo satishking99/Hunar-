@@ -1,0 +1,34 @@
+{
+  "name": "hunar-backend",
+  "version": "1.0.0",
+  "description": "Production-ready backend for the Hunar social media application and AI Robot Assistant",
+  "main": "src/server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node --watch src/server.js",
+    "test": "node --test tests/api.test.js",
+    "init-db": "node src/scripts/initDb.js"
+  },
+  "keywords": [
+    "hunar",
+    "backend",
+    "social-media",
+    "ai-robot",
+    "express",
+    "sqlite"
+  ],
+  "author": "Hunar Engineering",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.4",
+    "express": "^4.22.1",
+    "jsonwebtoken": "^9.0.3",
+    "multer": "^2.0.2"
+  },
+  "devDependencies": {
+    "supertest": "^7.1.5"
+  }
+}

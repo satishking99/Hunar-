@@ -1,0 +1,6 @@
+{
+  "name": "HUNAR",
+  "description": "HUNAR - Talent First. Social platform where skill > beauty. Equal recognition and earning for talent, hard work, and creativity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
